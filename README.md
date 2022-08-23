@@ -5,7 +5,7 @@ Marcelo Sidoruk
 Marvin Brito
 Ezequiel Ferreyra
 - Correos electrónicos:
-@gmail.com
+dfonta@gmail.com
 msidoruk@gmail.com
 marvinjmb@gmail.com
 ezzferreyra@gmail.com
